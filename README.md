@@ -15,6 +15,9 @@ EasePlanner: Personalized Travel Itinerary Generator.
 - **Travel Checklist**: Generate detailed checklists covering essential items to pack, travel documents, health & safety tips, and activity-specific items.
 - **Customizable Prompts**: Tailor prompts to generate itineraries and checklists according to various travel preferences and requirements.
 - **Streamlit Web Application**: A user-friendly interface for generating and downloading travel itineraries and checklists.
+- **In-built Screen Recorder**: Capture interactions and planning sessions directly within the application for future reference.
+- **Dark Mode**: Support for dark mode to enhance usability during night-time planning and reduce eye strain.
+
 
 
 ## Setup and Installation
