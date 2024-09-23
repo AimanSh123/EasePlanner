@@ -3,7 +3,7 @@
 This is the Atlan Engineering Fellowship Task - 2024:  
 EasePlanner: Personalized Travel Itinerary Generator.
 
-### Visit the currently deployed version [**here**]()
+### Visit the currently deployed version here : https://easeplanner.streamlit.app/
 
 ![atlan-gif](https://github.com/user-attachments/assets/956e33bc-8bee-43d8-b19a-ac5f3cc0915c)
 
