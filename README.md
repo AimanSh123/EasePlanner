@@ -5,7 +5,6 @@ EasePlanner: Personalized Travel Itinerary Generator.
 
 ### Visit the currently deployed version here : https://easeplanner.streamlit.app/
 
-![atlan-gif](https://github.com/user-attachments/assets/956e33bc-8bee-43d8-b19a-ac5f3cc0915c)
 
 **EasePlanner** is a travel planning application designed to generate detailed itineraries and travel checklists using advanced AI models. The app uses the Gemini model from Google Generative AI to create practical and enjoyable travel plans based on user inputs.
 
@@ -78,7 +77,9 @@ With the **Instructions** expander in the web application:
 
 ### Here is an example output for a 2-Night Adventure in Mumbai with a Budget of ₹500 (August 31st, 2024):
 
-![image](https://github.com/user-attachments/assets/84647d5d-4ecc-4427-8749-3c32b5f0634b)
+![image](![image](https://github.com/user-attachments/assets/cdea4d08-d698-4061-a2c6-f9afa98272aa)
+(![image](https://github.com/user-attachments/assets/d86c39d4-03bb-4359-ad00-103a166a56b5)
+))
 
 ## Contributing
 
