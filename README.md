@@ -75,7 +75,7 @@ With the **Instructions** expander in the web application:
 
 ## Example Output
 
-### Here is an example output for a 2-Night Adventure in Mumbai with a Budget of ₹500 (August 31st, 2024):
+### Here is an example output for a 1-Night Adventure in Delhi with a Budget of ₹3000 (September 23rd, 2024):
 
 ![image](![image](https://github.com/user-attachments/assets/cdea4d08-d698-4061-a2c6-f9afa98272aa)
 (![image](https://github.com/user-attachments/assets/d86c39d4-03bb-4359-ad00-103a166a56b5)
